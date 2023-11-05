@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/MyCgao.dir/src/Menu.c.o CMakeFiles/MyCgao.dir/src/main.c.o  -o MyCgao   -L/home/code/cproject/Cgaoji/lib  -Wl,-rpath,/home/code/cproject/Cgaoji/lib -lMyMath 
